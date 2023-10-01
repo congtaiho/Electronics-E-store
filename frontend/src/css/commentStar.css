@@ -1,0 +1,31 @@
+/* commentStar.css */
+
+
+.star {
+    color: #d89393;
+    /* Màu mặc định của nút sao (trắng) */
+    cursor: pointer;
+    /* Con trỏ khi hover vào nút sao */
+    transition: color 0.3s;
+    /* Hiệu ứng màu sắc khi hover */
+}
+
+.star.selected {
+    color: #ffd700 !important;
+    /* Màu khi đã chọn (vàng) */
+}
+
+.star-label {
+    position: absolute;
+    top: 50px;
+    /* Điều chỉnh vị trí hiển thị nhãn */
+    left: -200px;
+    width: 100%;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.star.hovered .star-label {
+    opacity: 1;
+}

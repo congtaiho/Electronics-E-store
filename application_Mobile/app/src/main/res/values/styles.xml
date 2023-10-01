@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize action bar color -->
+        <item name="colorPrimary">#3a4468</item>
+        <item name="colorPrimaryDark">#292b49</item>
+        <item name="colorAccent">#6167a7</item>
+        <!-- Other theme attributes -->
+    </style>
+</resources>

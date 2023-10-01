@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Sac Teams</string>
+    <string-array name="spinner_items">
+<!--        <item>All</item>-->
+<!--        <item>Electronics</item>-->
+    </string-array>
+</resources>

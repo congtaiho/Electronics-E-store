@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2023-08-24T15:57:44.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NOkW5mhDlfaF4h4u4x1R" version="21.6.9" type="device">
+  <diagram name="Page-1" id="6NuQyn1U6hM81vOpKVzq">
+    <mxGraphModel dx="1257" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XqH_Wrg7L4-xXT_pSRVm-1" target="XqH_Wrg7L4-xXT_pSRVm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-1" value="Utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XqH_Wrg7L4-xXT_pSRVm-2" target="XqH_Wrg7L4-xXT_pSRVm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-2" value="L&#39;utilisateur a ajouté des produits au panier et souhaite finaliser son achat." style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XqH_Wrg7L4-xXT_pSRVm-5" target="XqH_Wrg7L4-xXT_pSRVm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-5" value="L&#39;utilisateur choisit de passer à la caisse pour effectuer le paiement." style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="740" y="200" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XqH_Wrg7L4-xXT_pSRVm-7" target="XqH_Wrg7L4-xXT_pSRVm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-7" value="Le système demande à l&#39;utilisateur de sélectionner une méthode de paiement." style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="990" y="200" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XqH_Wrg7L4-xXT_pSRVm-9" target="XqH_Wrg7L4-xXT_pSRVm-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-9" value="L&#39;utilisateur sélectionne la méthode de paiement souhaitée parmi les options disponibles (carte de crédit, PayPal, etc.)." style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="190" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XqH_Wrg7L4-xXT_pSRVm-11" target="XqH_Wrg7L4-xXT_pSRVm-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-11" value="Le système interagit avec le Système de Paiement Externe pour traiter le paiement." style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="350" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XqH_Wrg7L4-xXT_pSRVm-13" target="XqH_Wrg7L4-xXT_pSRVm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-13" value="L&#39;utilisateur fournit les informations nécessaires pour le paiement (numéro de carte, date d&#39;expiration, code de sécurité, etc.)." style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="950.5" y="350" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XqH_Wrg7L4-xXT_pSRVm-15" target="XqH_Wrg7L4-xXT_pSRVm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-15" value="Le Système de Paiement Externe effectue une vérification des informations et demande l&#39;autorisation auprès de la banque de l&#39;utilisateur." style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="660.5" y="350" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XqH_Wrg7L4-xXT_pSRVm-17" target="XqH_Wrg7L4-xXT_pSRVm-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-17" value="Si le paiement est autorisé, le Système de Paiement Externe renvoie une confirmation au système du site de commerce électronique." style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="370.5" y="350" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XqH_Wrg7L4-xXT_pSRVm-19" target="XqH_Wrg7L4-xXT_pSRVm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-19" value="Le système enregistre la commande avec les produits achetés, les informations de paiement et les détails de livraison." style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="370.5" y="510" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XqH_Wrg7L4-xXT_pSRVm-21" target="XqH_Wrg7L4-xXT_pSRVm-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-21" value="Le système envoie un courriel de confirmation de la commande à l&#39;utilisateur, avec les détails de la commande et un récapitulatif des produits achetés." style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="660.5" y="510" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XqH_Wrg7L4-xXT_pSRVm-23" value="La transaction est terminée, et l&#39;utilisateur reçoit un message sur le site confirmant que la commande a été passée avec succès." style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="950.5" y="510" width="210" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
