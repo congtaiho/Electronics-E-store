@@ -1,7 +1,8 @@
 # w16_w17_projet_finale
 Team : Cong Tai Ho | Evan Cholette | Taoufik Boussemousse | Sara Salek | Antoine Ouelette | Charles-Maximilien Gros
 
-
+### Website Preview
+<img src="website_images/HomePage.gif" width="900">
 
 To start the project, make sure you have Node.js installed.
 - https://nodejs.org/en?fbclid=IwAR20ORtU3s69wqZ4iFhMV-F6731OKrfbdJs2xgA7PxrgWYF4CpfHBM4Tmv0
