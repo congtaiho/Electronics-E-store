@@ -73,7 +73,7 @@ const Details = ({ selectedDetailProduct, onloadStateFromLocalStorage, onSaveSta
                                     <img style={{ maxWidth: '100%', maxHeight: '100vh', margin: 'auto' }} className='rounded-4 fit' src={product.image_url} />
                                 </a>
                             </div>
-                            <div className='d-flex justify-content-center mb-3'>
+                            {/* <div className='d-flex justify-content-center mb-3'>
                                 <a data-fslightbox='mygalley' className='border mx-1 rounded-2' target='_blank' data-type='image' href='https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/detail1/big1.webp' rel='noreferrer'>
                                     <img width='60' height='60' className='rounded-2' src='https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/detail1/big1.webp' />
                                 </a>
@@ -89,7 +89,7 @@ const Details = ({ selectedDetailProduct, onloadStateFromLocalStorage, onSaveSta
                                 <a data-fslightbox='mygalley' className='border mx-1 rounded-2' target='_blank' data-type='image' href='https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/detail1/big.webp' rel='noreferrer'>
                                     <img width='60' height='60' className='rounded-2' src='https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/detail1/big.webp' />
                                 </a>
-                            </div>
+                            </div> */}
 
                         </aside>
                         <main className='col-lg-6'>

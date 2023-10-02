@@ -2,7 +2,7 @@
 Team : Cong Tai Ho | Evan Cholette | Taoufik Boussemousse | Sara Salek | Antoine Ouelette | Charles-Maximilien Gros
 
 ### Website Preview
-<img src="website_images/HomePage.gif" width="900">
+<img src="public/images/review.gif" width="900">
 
 To start the project, make sure you have Node.js installed.
 - https://nodejs.org/en?fbclid=IwAR20ORtU3s69wqZ4iFhMV-F6731OKrfbdJs2xgA7PxrgWYF4CpfHBM4Tmv0
@@ -17,7 +17,7 @@ Step 2:
 
 Open a second terminal and start the server in the 'backend' directory using the following command : node server.jsx
 - ![image](https://github.com/EchoCodeInk/w17_projet_final/assets/143127630/2073c716-7743-4493-96d6-529ce67c022a)
- 
+
 
 Step 3:
 
