@@ -25,6 +25,34 @@ In the first terminal, execute the following command in the directory "w17_proje
 This command starts the project in the browser.
 - ![image](https://github.com/EchoCodeInk/w17_projet_final/assets/143127630/6600855c-8752-4884-9fca-44122180a8fb)
 
+## Features 📋
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Login and check Login information\
+⚡️View product details
+⚡️Add to cart
+⚡️Buy now
+⚡️Corfirm order
+⚡️Send email
+
+## Sections 📚
+✔️ Login\
+✔️ Logout\
+✔️ Home\
+✔️ About\
+✔️ Details\
+✔️ Products\
+✔️ Why Us\
+✔️ Testimonial \
+✔️ Contact Us\
+✔️ Form Delivery
+
+## Tools Used 🛠️
+* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS, ReactJS, NodeJS).
+
+### Team  🔥
+[@Cong Tai Ho] | [@Taoufik] | [@Evan] | [@Sara] | [@Antoine] | [@Charles] 
+
 
 
 
