@@ -1,5 +1,5 @@
 # w16_w17_projet_finale
-Team : Cong Tai Ho| Evan Cholette | Taoufik Boussemousse | Sara Salek | Antoine Ouelette | Charles-Maximilien Gros
+Team : Cong Tai Ho | Evan Cholette | Taoufik Boussemousse | Sara Salek | Antoine Ouelette | Charles-Maximilien Gros
 
 
 
