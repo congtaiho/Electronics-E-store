@@ -1,8 +1,10 @@
 # Electronic-E-store
 Team : Cong Tai Ho | Evan Cholette | Taoufik Boussemousse | Sara Salek | Antoine Ouelette | Charles-Maximilien Gros
 
-### Website Preview
+## Website Preview
 <img src="public/images/review.gif" width="900">
+
+## Installation & Deployment 📦
 
 To start the project, make sure you have Node.js installed.
 - https://nodejs.org/en?fbclid=IwAR20ORtU3s69wqZ4iFhMV-F6731OKrfbdJs2xgA7PxrgWYF4CpfHBM4Tmv0
