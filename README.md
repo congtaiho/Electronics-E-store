@@ -1,5 +1,5 @@
 # Electronic-E-store
-Team : Cong Tai Ho | Evan Cholette | Taoufik Boussemousse | Sara Salek | Antoine Ouelette | Charles-Maximilien Gros
+
 
 ## Website Preview
 <img src="public/images/review.gif" width="900">
@@ -53,7 +53,7 @@ This command starts the project in the browser.
 * <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS, ReactJS, NodeJS).
 
 ### Team  🔥
-[@Cong Tai Ho] | [@Taoufik] | [@Evan] | [@Sara] | [@Antoine] | [@Charles] 
+Cong Tai Ho | Evan Cholette | Taoufik Boussemousse | Sara Salek | Antoine Ouelette | Charles-Maximilien Gros
 
 
 
