@@ -1,4 +1,4 @@
-# w16_w17_projet_finale
+# Electronic-E-store
 Team : Cong Tai Ho | Evan Cholette | Taoufik Boussemousse | Sara Salek | Antoine Ouelette | Charles-Maximilien Gros
 
 ### Website Preview
