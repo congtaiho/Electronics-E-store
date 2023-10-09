@@ -1,4 +1,7 @@
-# Electronic-E-store
+# Electronics-E-store🔥
+> https://github.com/congtaiho/Electronics-E-store
+
+:star: Star me on GitHub — it helps!
 
 
 ## Website Preview
