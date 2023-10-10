@@ -55,7 +55,7 @@ This command starts the project in the browser.
 ## Tools Used 🛠️
 * <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS, ReactJS, NodeJS).
 
-### Team  🔥
+### Teams  🔥
 Cong Tai Ho | Evan Cholette | Taoufik Boussemousse | Sara Salek | Antoine Ouelette | Charles-Maximilien Gros
 
 
